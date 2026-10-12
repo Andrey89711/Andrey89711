@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**Andrey89711/Andrey89711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hey there! I'm Andrey89711 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend & Full-Stack Developer
+
+Building scalable applications, real-time systems,
+and tools that make life easier.
+
+Passionate about backend engineering, system architecture,
+open-source technologies, and turning ideas into products.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,go,ts,js" />
+
+**Backend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=fastapi,django" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=vue,react,vite,html,css" />
+
+**Databases & Caching**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite" />
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,ubuntu,debian" />
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Andrey89711/Andrey89711/output/github-contribution-grid-snake-dark.svg)
+
+</div>
